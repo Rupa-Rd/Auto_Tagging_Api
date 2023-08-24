@@ -1,0 +1,5 @@
+__pycache__
+.venv
+TaggingSystemModel
+sample.json
+output.csv
